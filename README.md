@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alejandro Díaz</h1>
+<h3 align="center">Backend Developer | DAM Student</h3>
 
-<!--
-**ads-backenddev/ads-backenddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/ads-backenddev.png" width="150" style="border-radius:50%;" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about backend development, APIs and scalable systems. Currently finishing <b>DAM (Desarrollo de Aplicaciones Multiplataforma)</b>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Finishing **DAM (Desarrollo de Aplicaciones Multiplataforma)**  
+- 💻 Backend developer focused on **APIs and scalable services**  
+- 🐧 Comfortable working in **Linux environments**  
+- 🐳 Basic experience with **Docker containers**  
+- 🧠 Interested in **backend architecture, databases, and clean code**
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Dev Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ads-backenddev&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads-backenddev&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-díaz-09b5903b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro_Diaz-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:alejandro.diaz.backend@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alejandro.diaz.backend@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+⭐ From [ads-backenddev](https://github.com/ads-backenddev)
